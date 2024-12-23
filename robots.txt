@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blox-fps.vercel.app/sitemap.xml
